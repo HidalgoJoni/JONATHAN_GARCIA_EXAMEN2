@@ -1,3 +1,0 @@
-fichero 1
-segunda linea
-tercera linea
